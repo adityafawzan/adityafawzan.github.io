@@ -9,7 +9,7 @@
 </head>
 
 <body>
-  <?php echo 'test'; ?>
+  adit
 </body>
 
 </html>
